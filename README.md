@@ -3,7 +3,7 @@
 **Technologies Used:** Flask, HTML5, CSS 🛠️
 
 
-```The backend part was attempted but unable to finish deploy the backend features in the given time. Kindly refer to the app.py. But frontend is working without the support of flask```
+<h1 style="color:red">The backend part was attempted but unable to finish deploy the backend features in the given time. Kindly refer to the app.py. But frontend is working without the support of flask</h1>
 
 
 ---
