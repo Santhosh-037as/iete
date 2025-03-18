@@ -442,7 +442,7 @@
             </select>
             
             <!-- Navigation button -->
-            <button class="nav-button" id="explore-more" onclick="/load.html">Explore More</button>
+            <button class="nav-button" id="explore-more">Explore More</button>
         </div>
         
         <!-- Animal follower element -->
@@ -555,6 +555,9 @@
                     saveAnimalState();
                 });
             }
+            document.getElementById("explore-more").addEventListener("click", function() {
+    window.location.href = "load.html";
+});
             
             // Animate the follower with smooth movement and delay
             function animateFollower() {
